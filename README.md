@@ -15,12 +15,10 @@
 <!-- Repos --->
 <details open>
   <summary><h2>📘 Repositories | Ngā Putunga</h2></summary>
-  <table>
-    <tr>
-    <td valign="top"><a href="https://github.com/trumully/artipy"><img src="https://gh-card.dev/repos/trumully/artipy.svg"></a></td> 
-    <td valign="top"><a href="https://github.com/trumully/minesoc"><img src="https://gh-card.dev/repos/trumully/minesoc.svg"></a></td>
-    </tr>
-  </table>
+      <p align="center">
+          <a href="https://github.com/trumully/artipy"><img src="https://gh-card.dev/repos/trumully/artipy.svg" width="45%"></a>
+          <a href="https://github.com/trumully/minesoc"><img src="https://gh-card.dev/repos/trumully/minesoc.svg" width="45%"></a>
+      </p>
 </details>
 
 <!-- Skills --->
@@ -47,9 +45,10 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary><h2>✍️ Guestbook | Pukapuka Manuhiri
   <!--START_SECTION:guestbook-->
 
+  [Sign](https://github.com/trumully/trumully/issues/new?title=Guestbook) my guestbook!
   <!--END_SECTION:guestbook-->
 </details>
