@@ -9,13 +9,6 @@ I've had a keen interest in programming from a very young age.
 I primarily use and especially love <b>Python</b> but I'm always willing to learn 👌
 </h3>
 </div>
-<h2 align="center">🤔 What I know</h2>
-<div style="display: flex; justify-content: center;" align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="100">
-</div>
 <h2 align="center">💻 What I'm working on</h2>
 <div align="center">
 <h3>
