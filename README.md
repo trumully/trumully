@@ -16,8 +16,10 @@
 <details open>
   <summary><h2>📘 Repositories | Ngā Putunga</h2></summary>
   <table>
+    <tr>
     <td valign="top"><a href="https://github.com/trumully/artipy"><img src="https://gh-card.dev/repos/trumully/artipy.svg"></a></td> 
     <td valign="top"><a href="https://github.com/trumully/minesoc"><img src="https://gh-card.dev/repos/trumully/minesoc.svg"></a></td>
+    </tr>
   </table>
 </details>
 
