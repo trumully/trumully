@@ -3,9 +3,11 @@
 </h1>
 
 <div align="center">
+<h3>
 I've had a keen interest in programming from a very young age.
 <br>
-I primarily use and especially love <b>Python</b>but I'm always willing to learn 👌
+I primarily use and especially love <b>Python</b> but I'm always willing to learn 👌
+</h3>
 </div>
 <h2 align="center">🤔 What I know</h2>
 <div style="display: flex; justify-content: center;" align="center">
@@ -16,9 +18,11 @@ I primarily use and especially love <b>Python</b>but I'm always willing to learn
 </div>
 <h2 align="center">💻 What I'm working on</h2>
 <div align="center">
+<h3>
 Currently I am working on a Python project called <a href="https://github.com/trumully/artipy">artipy</a> which combines my love of <a href="https://genshin.hoyoverse.com/">Genshin Impact</a> and trying to reach perfection with getting the perfect gear in games.
 <br><br>
 This project has helped teach me many skills such as <b>Git</b>, semantic versioning, <b>GitHub Actions</b>, and much more.
+</h2>
 </div>
 <hr>
 <div align = "center">
