@@ -46,7 +46,7 @@
 </details>
 
 <details open>
-  <summary><h2>✍️ Guestbook | Pukapuka Manuhiri
+  <summary><h2>✍️ Guestbook | Pukapuka Manuhiri</summary>
   <!--START_SECTION:guestbook-->
 
   [Sign](https://github.com/trumully/trumully/issues/new?title=Guestbook) my guestbook!
