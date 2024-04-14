@@ -46,7 +46,8 @@
 </details>
 
 <h2>✍️ Guestbook | Pukapuka Manuhiri</h2>
-<!--START_SECTION:guestbook-->
+<!--START_SECTION:guestbook-section-->
+
 
 [Sign](https://github.com/trumully/trumully/issues/new?title=Guestbook) my guestbook!
-<!--END_SECTION:guestbook-->
+<!--END_SECTION:guestbook-section-->
