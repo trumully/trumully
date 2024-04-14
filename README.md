@@ -45,10 +45,8 @@
   </div>
 </details>
 
-<details open>
-  <summary><h2>✍️ Guestbook | Pukapuka Manuhiri</summary>
-  <!--START_SECTION:guestbook-->
+<h2>✍️ Guestbook | Pukapuka Manuhiri</h2>
+<!--START_SECTION:guestbook-->
 
-  [Sign](https://github.com/trumully/trumully/issues/new?title=Guestbook) my guestbook!
-  <!--END_SECTION:guestbook-->
-</details>
+[Sign](https://github.com/trumully/trumully/issues/new?title=Guestbook) my guestbook!
+<!--END_SECTION:guestbook-->
