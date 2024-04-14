@@ -3,22 +3,20 @@ name: Guestbook
 on:
   issues:
     types: [opened, closed, reopened, deleted, edited]
-
+  workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   update_guestbook:
-    permissions:
-      contents: write
+    name: Update the guestbook
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
+
+      - name: Update guestbook with latest guest post entries
+        uses: nfhipona/guestbook-workflow@main
         with:
-          node-version: '12'
-      - run: npm install
-      - name: Update guestbook
-        uses: muety/readme-guestbook@v1.0.9
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          max_entries: 10
+          target_branch: 'main'
+          section_identifier: 'guestbook-section'
