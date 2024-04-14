@@ -25,13 +25,13 @@
 <details open>
   <summary><h2>🛠️ Skills | Ngā Pūkenga</h2></summary>
   <div align="center">
-    <img height="60" width="60" src="https://cdn.simpleicons.org/python" />
-    <img height="60" width="60" src="https://cdn.simpleicons.org/html5" />
-    <img height="60" width="60" src="https://cdn.simpleicons.org/css3" />
-    <img height="60" width="60" src="https://cdn.simpleicons.org/javascript" />
-    <img height="60" width="60" src="https://cdn.simpleicons.org/git" />
-    <img height="60" width="60" src="https://cdn.simpleicons.org/sqlite" />
-    <img height="60" width="60" src="https://cdn.simpleicons.org/postgresql" />
+    <img height="60" width="60" src="https://cdn.simpleicons.org/python" title="Python" alt="Python" />
+    <img height="60" width="60" src="https://cdn.simpleicons.org/html5" title="HTML5" alt="HTML5" />
+    <img height="60" width="60" src="https://cdn.simpleicons.org/css3" title="CSS3" alt="CSS3" />
+    <img height="60" width="60" src="https://cdn.simpleicons.org/javascript" title="JavaScript" alt="JavaScript" />
+    <img height="60" width="60" src="https://cdn.simpleicons.org/git" title="Git" alt="Git" />
+    <img height="60" width="60" src="https://cdn.simpleicons.org/sqlite" title="SQLite" alt="SQLite" />
+    <img height="60" width="60" src="https://cdn.simpleicons.org/postgresql" title="PostgreSQL" alt="PostgreSQL" />
   </div>
 </details>
 
