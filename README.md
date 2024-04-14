@@ -47,5 +47,7 @@
 
 <h2>✍️ Guestbook | Pukapuka Manuhiri</h2>
 <!--START_SECTION:guestbook-section-->
+
 Nothing to see here. Be the first to [post something](https://github.com/trumully/trumully/issues/new?title=GUEST_BOOK_ENTRY) to ***[my](https://github.com/trumully)*** guestbook!
+
 <!--END_SECTION:guestbook-section-->
