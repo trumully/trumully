@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Truman+Mulholland" alt="Truman Mulholland">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=1000&color=FFB3BA&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Truman+Mulholland" alt="Truman Mulholland">
 </p>  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Kia+ora!+Kei+te+pēhea+koe?">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFB3BA&center=true&vCenter=true&random=false&width=435&lines=Kia+ora!+Kei+te+pēhea+koe?">
 </p>
 
 <!-- Socials --->
 <p align="center">
-  <a href="https://github.com/trumully"><img height="40" width="50" src="https://cdn.simpleicons.org/github/white" title="trumully"/></a>&nbsp;
-  <img height="40" width="50" src="https://cdn.simpleicons.org/discord/white" title="@trumully"/>&nbsp;
-  <a href="https://twitter.com/trumully"><img height="40" width="50" src="https://cdn.simpleicons.org/x/white" title="@trumully" /></a>
+  <a href="https://github.com/trumully"><img height="40" width="50" src="https://cdn.simpleicons.org/github/black/white" title="trumully"/></a>&nbsp;
+  <img height="40" width="50" src="https://cdn.simpleicons.org/discord/black/white" title="@trumully"/>&nbsp;
+  <a href="https://twitter.com/trumully"><img height="40" width="50" src="https://cdn.simpleicons.org/x/black/white" title="@trumully" /></a>
 </p>
 
 <!-- Repos --->
