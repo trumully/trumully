@@ -47,5 +47,9 @@
 
 ## ✍️ Guestbook | Pukapuka Manuhiri
 <!--START_SECTION:guestbook-section-->
-Nothing to see here. Be the first to [post something](https://github.com/trumully/trumully/issues/new?title=GUEST_BOOK_ENTRY) to ***[my](https://github.com/trumully)*** guestbook!
+<a href="https://github.com/trumully"><img src="https://avatars.githubusercontent.com/u/59830782?u=b4a3b7b1c8355e499b96397a5d950792b7725c1a&v=4" height="30"/></a>
+
+* **[trumully](https://github.com/trumully) *wrote on 4/14/2024*:** hi!
+
+Do you like my project or just want to say hi? Feel free to [post something](https://github.com/trumully/trumully/issues/new?title=GUEST_BOOK_ENTRY) to ***[my](https://github.com/trumully)*** guestbook!
 <!--END_SECTION:guestbook-section-->
