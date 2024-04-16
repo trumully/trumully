@@ -1,23 +1,40 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=1000&color=FFB3BA&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Truman+Mulholland" alt="Truman Mulholland">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=1000&color=ecf2f8&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Truman+Mulholland">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=1000&color=333&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Truman+Mulholland" alt="Truman Mulholland">
+  </picture>
 </p>  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFB3BA&center=true&vCenter=true&random=false&width=435&lines=Kia+ora!+Kei+te+pēhea+koe?">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ecf2f8&center=true&vCenter=true&random=false&width=435&lines=Kia+ora!+Kei+te+pēhea+koe?">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=333&center=true&vCenter=true&random=false&width=435&lines=Kia+ora!+Kei+te+pēhea+koe?">
+  </picture>
 </p>
 
 <!-- Socials --->
 <p align="center">
   <a href="https://github.com/trumully"><img height="40" width="50" src="https://cdn.simpleicons.org/github/black/white" title="trumully"/></a>&nbsp;
   <img height="40" width="50" src="https://cdn.simpleicons.org/discord/black/white" title="@trumully"/>&nbsp;
-  <a href="https://twitter.com/trumully"><img height="40" width="50" src="https://cdn.simpleicons.org/x/black/white" title="@trumully" /></a>
+  <a href="https://twitter.com/trumully"><img height="40" width="50" src="https://cdn.simpleicons.org/x/black/white" title="@trumully" /></a>&nbsp;
+  <a href="https://linkedin.com/in/trumully"><img height="40" width="50" src="https://cdn.simpleicons.org/linkedin/black/white" title="trumully" /></a>
 </p>
 
 <!-- Repos --->
 <details open>
   <summary><h2>📘 Repositories | Ngā Putunga</h2></summary>
       <p align="center">
-          <a href="https://github.com/trumully/artipy"><img src="https://ghc.clait.sh/repo/trumully/artipy?bg_color=0d1117&title_color=77bdfb&text_color=ecf2f8&icon_color=ecf2f8&show_user=false" width="45%"></a>
-          <a href="https://github.com/trumully/minesoc"><img src="https://ghc.clait.sh/repo/trumully/minesoc?bg_color=0d1117&title_color=77bdfb&text_color=ecf2f8&icon_color=ecf2f8&show_user=false" width="45%"></a>
+          <a href="https://github.com/trumully/artipy">
+          <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ghc.clait.sh/repo/trumully/artipy?bg_color=0d1117&title_color=4078c0&text_color=ecf2f8&icon_color=ecf2f8&show_user=false">
+          <img src="https://ghc.clait.sh/repo/trumully/artipy?bg_color=fafafa&title_color=4078c0&text_color=333&icon_color=333&show_user=false" width="45%">
+          </picture>
+          </a>
+          <a href="https://github.com/trumully/minesoc">
+          <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ghc.clait.sh/repo/trumully/minesoc?bg_color=0d1117&title_color=4078c0&text_color=ecf2f8&icon_color=ecf2f8&show_user=false">
+          <img src="https://ghc.clait.sh/repo/trumully/minesoc?bg_color=fafafa&title_color=4078c0&text_color=333&icon_color=333&show_user=false" width="45%">
+          </picture>
+          </a>
       </p>
 </details>
 
@@ -40,7 +57,12 @@
   <summary><h2>📊 Analytics | Raraunga</h2></summary>
   <div align="center">
 
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/trumully?cardType=level&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
+  <a href="https://git.io/awesome-stats-card">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/trumully?cardType=level&theme=dark&preferLogin=true">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/trumully?cardType=level&theme=light&preferLogin=true">
+  </picture>
+  </a>
 
   </div>
 </details>
