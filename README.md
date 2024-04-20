@@ -59,8 +59,8 @@
 
   <a href="https://git.io/awesome-stats-card">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/trumully?cardType=level&theme=dark&preferLogin=true">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/trumully?cardType=level&theme=light&preferLogin=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/trumully?cardType=level&theme=github-dark&preferLogin=true">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/trumully?cardType=level&theme=github&preferLogin=true">
   </picture>
   </a>
 
