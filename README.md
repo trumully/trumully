@@ -29,10 +29,10 @@
           <img src="https://ghc.clait.sh/repo/trumully/artipy?bg_color=fafafa&title_color=4078c0&text_color=333&icon_color=333&show_user=false" width="45%">
           </picture>
           </a>
-          <a href="https://github.com/trumully/minesoc">
+          <a href="https://github.com/trumully/pfp_generator">
           <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ghc.clait.sh/repo/trumully/minesoc?bg_color=0d1117&title_color=4078c0&text_color=ecf2f8&icon_color=ecf2f8&show_user=false">
-          <img src="https://ghc.clait.sh/repo/trumully/minesoc?bg_color=fafafa&title_color=4078c0&text_color=333&icon_color=333&show_user=false" width="45%">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ghc.clait.sh/repo/trumully/pfp_generator?bg_color=0d1117&title_color=4078c0&text_color=ecf2f8&icon_color=ecf2f8&show_user=false">
+          <img src="https://ghc.clait.sh/repo/trumully/pfp_generator?bg_color=fafafa&title_color=4078c0&text_color=333&icon_color=333&show_user=false" width="45%">
           </picture>
           </a>
       </p>
