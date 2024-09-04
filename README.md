@@ -1,15 +1,7 @@
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=1000&color=ecf2f8&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Truman+Mulholland">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=1000&color=333&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Truman+Mulholland" alt="Truman Mulholland">
-  </picture>
-</p>  
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ecf2f8&center=true&vCenter=true&random=false&width=435&lines=Kia+ora!+Kei+te+pēhea+koe?">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=333&center=true&vCenter=true&random=false&width=435&lines=Kia+ora!+Kei+te+pēhea+koe?">
-  </picture>
-</p>
+
+<h1 align="center">
+👋 Kia ora, I'm Truman
+</h1>
 
 <!-- Socials --->
 <p align="center">
