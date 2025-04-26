@@ -34,7 +34,7 @@
 
 <div align="center">
   <a href="https://github.com/trumully" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-  <a href="https://discord.com" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-@trumully-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;
+  <a href="https://discord.com/users/211609682341658624" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;
   <a href="https://trumully.bsky.social" target="_blank"><img alt="Bluesky" src="https://img.shields.io/badge/-Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>&nbsp;
   <a href="https://linkedin.com/in/trumully" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=trumully&countColor=%2362CCCA"/>
